@@ -1,0 +1,3 @@
+implement residential and commercial property
+toString for those two properties
+implement rentalAgreement and Payment
